@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'IRicon';
+  src:  url('https://cdn.jsdelivr.net/gh/progyaghouti/icons/IRicon/fonts/IRicon.eot');
+  src:  url('https://cdn.jsdelivr.net/gh/progyaghouti/icons/IRicon/fonts/IRicon.eot?#iefix') format('embedded-opentype'),
+    url('https://cdn.jsdelivr.net/gh/progyaghouti/icons/IRicon/fonts/IRicon.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/progyaghouti/icons/IRicon/fonts/IRicon.ttf') format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/progyaghouti/icons/IRicon/fonts/IRicon.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/progyaghouti/icons/IRicon/fonts/IRicon.svg?#IRicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="iri-"], [class*=" iri-"] {
+  font-family: 'IRicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iri-eitaa:before {
+  content: "\e97c";
+}
+.iri-soroush:before {
+  content: "\e97d";
+}
+.iri-bale:before {
+  content: "\e97e";
+}
+.iri-gap:before {
+  content: "\e900";
+}
+.iri-bisphone:before {
+  content: "\e916";
+}
+.iri-EFA:before {
+  content: "\e917";
+  color: #eb345e;
+}
+.iri-Enbank:before {
+  content: "\e918";
+}
+.iri-aparat:before {
+  content: "\e919";
+}
+.iri-cloob:before {
+  content: "\e91a";
+}
+.iri-dey:before {
+  content: "\e91b";
+}
+.iri-gardeshgari:before {
+  content: "\e91c";
+}
+.iri-Hekmat:before {
+  content: "\e91d";
+}
+.iri-iranzamin:before {
+  content: "\e91e";
+}
+.iri-ghavamin:before {
+  content: "\e91f";
+}
+.iri-markazi:before {
+  content: "\e920";
+}
+.iri-mehr:before {
+  content: "\e921";
+}
+.iri-mellat:before {
+  content: "\e922";
+}
+.iri-melli:before {
+  content: "\e923";
+}
+.iri-parsian:before {
+  content: "\e924";
+}
+.iri-refah:before {
+  content: "\e925";
+}
+.iri-saderat:before {
+  content: "\e926";
+}
+.iri-salehin:before {
+  content: "\e927";
+}
+.iri-saman:before {
+  content: "\e928";
+}
+.iri-sarmayeh:before {
+  content: "\e929";
+}
+.iri-Mahak:before {
+  content: "\e93e";
+}
+.iri-Maskan:before {
+  content: "\e940";
+}
+.iri-MEBank:before {
+  content: "\e941";
+}
+.iri-Mehreghtesad:before {
+  content: "\e942";
+}
+.iri-Mehriran:before {
+  content: "\e947";
+}
+.iri-tejarat:before {
+  content: "\e97f";
+}
+.iri-Pasargad:before {
+  content: "\e99b";
+}
+.iri-PayamNoor:before {
+  content: "\e99d";
+}
+.iri-SanatMadan:before {
+  content: "\e9c7";
+}
+.iri-Shahr:before {
+  content: "\e9d1";
+}
+.iri-Shaparak:before {
+  content: "\e9d2";
+}
+.iri-Shetab:before {
+  content: "\e9d3";
+}
+.iri-Sina:before {
+  content: "\e9d4";
+}
+.iri-Tosse:before {
+  content: "\ea09";
+}
+.iri-ZarinPal:before {
+  content: "\ea12";
+}
+.iri-Afzal-toos:before {
+  content: "\ea13";
+}
