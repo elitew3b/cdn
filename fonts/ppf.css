@@ -1,4 +1,17 @@
 @font-face {
+	font-family: "MorabbaVF";
+	font-style: normal;
+	font-weight: 900;
+	src:url("https://cdn.jsdelivr.net/gh/progyaghouti/cdn/moraba/MorabbaVF.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/cdn/moraba/MorabbaVF.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 900;
+	src:url("https://cdn.jsdelivr.net/gh/progyaghouti/cdn/moraba/Morabba-Black.ttf") format("truetype");
+}
+@font-face {
 	font-family: "Moraba";
 	font-style: normal;
 	font-weight: 900;
