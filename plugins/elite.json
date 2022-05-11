@@ -1,0 +1,37 @@
+{
+	"name": "نخبه وردپرس",
+	"version": "1.1.1",
+	"download_url": "https://cdn-d4g.pages.dev/plugins/elite-addon-v1.1.1.zip",
+
+	"homepage": "https://progy.ir/",
+	"requires": "4.5",
+	"tested": "5.9.3",
+	"last_updated": "2021-04-01 14:14:00",
+	"upgrade_notice": "",
+
+	"author": "𝐏𝐫𝐨𝐠 𝐘𝐚𝐠𝐡𝐨𝐭𝐮𝐢 ™",
+	"author_homepage": "https://progy.ir/",
+
+	"sections": {
+		"description": "این توضیحات است",
+		"installation": "نصب شد یا چی ؟",
+		"changelog": "آپدیت خفن دادیم",
+		"custom_section": "اینم اضافس دیگ"
+	},
+	
+	"icons" : {
+		"1x" : "https://cdn-d4g.pages.dev/plugins/elite-logo.svg",
+		"2x" : "https://cdn-d4g.pages.dev/plugins/elite-logo.svg"
+    },
+
+	"banners": {
+		"low": "https://cdn-d4g.pages.dev/plugins/elite-banner-772x250.png",
+		"high": "https://cdn-d4g.pages.dev/plugins/elite-banner-1544x500.png"
+	},
+
+	"rating": 90,
+	"num_ratings": 123,
+
+	"downloaded": 1234,
+	"active_installs": 12345
+}
