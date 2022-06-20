@@ -90,27 +90,6 @@
 }
 
 @font-face {
-	font-family: "Shabnam";
-	font-style: normal;
-	font-weight: bold;
-	src: url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam-Bold.woff2") format("woff2"), url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam-Bold.woff") format("woff"), url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam-Bold.ttf") format("truetype");
-}
-
-@font-face {
-	font-family: "Shabnam";
-	font-style: normal;
-	font-weight: 300;
-	src: url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam-Light.woff2") format("woff2"), url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam-Light.woff") format("woff"), url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam-Light.ttf") format("truetype");
-}
-
-@font-face {
-	font-family: "Shabnam";
-	font-style: normal;
-	font-weight: normal;
-	src: url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam.woff2") format("woff2"), url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam.woff") format("woff"), url("https://cdn-d4g.pages.dev/fonts/shabnam/Shabnam.ttf") format("truetype");
-}
-
-@font-face {
 	font-family: "Vazir";
 	font-style: normal;
 	font-weight: normal;
