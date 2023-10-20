@@ -1,0 +1,70 @@
+/*====================== Kalame ===========================*/
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: 100;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Thin.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Thin.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: 200;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-ExtraLight.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-ExtraLight.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: 300;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Light.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Light.woff') format('woff');
+	font-display: swap;
+}
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: 500;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Medium.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Medium.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: 600;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-SemiBold.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-SemiBold.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: 800;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-ExtraBold.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-ExtraBold.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: 900;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Black.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Black.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: bold;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Bold.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Bold.woff') format('woff');
+	font-display: swap;
+}
+
+@font-face {
+	font-family: Kalame;
+	font-style: normal;
+	font-weight: normal;
+	src: url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Regular.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/kalame/KalamehWebFaNum-Regular.woff') format('woff');
+}

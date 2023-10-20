@@ -1,0 +1,21 @@
+/*====================== Vanda ===========================*/
+@font-face {
+	font-family: "Vanda";
+	font-style: normal;
+	font-weight: normal;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/vanda/Vandafanum-Regular.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/vanda/Vandafanum-Regular.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Vanda";
+	font-style: normal;
+	font-weight: 500;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/vanda/VandaFanum-Medium.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/vanda/VandaFanum-Medium.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Vanda";
+	font-style: normal;
+	font-weight: 300;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/vanda/VandaFanum-Light.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/vanda/VandaFanum-Light.woff") format("woff");
+}

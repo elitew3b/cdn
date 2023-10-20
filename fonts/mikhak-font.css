@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "Mikhak";
+	font-style: normal;
+	font-weight: bold;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Bold.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Mikhak";
+	font-style: normal;
+	font-weight: 900;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Black.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Black.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Mikhak";
+	font-style: normal;
+	font-weight: 100;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Thin.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Thin.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Mikhak";
+	font-style: normal;
+	font-weight: 300;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Light.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/mikhak/Mikhak-Light.ttf") format("truetype");
+}

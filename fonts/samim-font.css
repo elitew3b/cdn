@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Samim";
+	font-style: normal;
+	font-weight: normal;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/samim/Samim.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/samim/Samim.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/samim/Samim.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Samim";
+	font-style: normal;
+	font-weight: bold;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/samim/Samim-Bold.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/samim/Samim-Bold.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/samim/Samim-Bold.ttf") format("truetype");
+}

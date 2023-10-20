@@ -1,0 +1,56 @@
+/*====================== Vanda ===========================*/
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: 900;
+	src:  url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Black.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Black.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Black.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: bold;
+	src:url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Bold.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Bold.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: 100;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Thin.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Thin.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Thin.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: 600;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-SemiBold.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-SemiBold.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: normal;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Regular.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Regular.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: 800;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-ExtraBold.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-ExtraBold.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: 200;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-light.ttf") format("truetype"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-light.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-light.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-light.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pelak";
+	font-style: normal;
+	font-weight: 500;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Medium.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Medium.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/pelak/PelakFA-Medium.ttf") format("truetype");
+}

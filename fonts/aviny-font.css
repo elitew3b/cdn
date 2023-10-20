@@ -1,0 +1,6 @@
+@font-face {
+	font-family: "Aviny";
+	font-style: normal;
+	font-weight: normal;
+	src: url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/aviny/aviny-web.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/web-elite/cdn/fonts/aviny/aviny-web.woff") format("woff");
+}
